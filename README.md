@@ -1,2 +1,2 @@
 # GordoSwing
-Mobile adventure platform game.
+Mobile adventure platform game published on Google PlayStore.
